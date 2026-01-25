@@ -5,7 +5,7 @@ This repository will include the source codes of 14 image deconvolution methods,
 Zohair Al-Ameen. "Low-Intricacy Methods for Image Deconvolution: A Review".
 
 
-_Submitted to: Pattern Analysis and Applications Journal, Springer._
+_Submitted to: XYZ Journal._
 
 __Run the algorithms using these two files:__
 
